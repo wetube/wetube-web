@@ -25,8 +25,9 @@
 \bibtex_command default
 \index_command default
 \paperfontsize default
+\spacing single
 \use_hyperref false
-\papersize default
+\papersize a5paper
 \use_geometry false
 \use_amsmath 1
 \use_esint 1
@@ -207,6 +208,187 @@ Imagine that you are a programmer and/or a system administrator and you
  Tor services if you want to serve delicate searches, at only the cost of
  some added latency.
  You are a crucial part of this revolution.
+\end_layout
+
+\begin_layout Section*
+Is this another moderated system?
+\end_layout
+
+\begin_layout Standard
+Yes and no.
+ It is moderated in the sense that oneself can be the moderator, or relay
+ the task to a trusted moderator or a group of moderators.
+ The magic of this system is that it allows full freedom, while maintaing
+ the convenience of good-quality results and potential legality, as explained
+ bellow.
+\end_layout
+
+\begin_layout Standard
+First things first.
+ In WeTube, there is a root moderator called 
+\begin_inset Quotes eld
+\end_inset
+
+unmoderator
+\begin_inset Quotes erd
+\end_inset
+
+ which acepts everything and cannot be violated in any form.
+ This moderator resides in no place and all its content is purely in the
+ cloud of users.
+ Not a single part of this moderator content and searches resides in any
+ server, except if the server administrator decides so, which s/he must
+ explicitly configure to.
+ This moderator fullfils freedom and zero discrimination, which unfortunately
+ includes low quality results and potentially some illegal content in some
+ countries.
+\end_layout
+
+\begin_layout Standard
+You can compare this unmoderator with raw eMule, Tor hidden services, Gnutella,
+ Kademlia, and other p2p protocols offering searches and/or magnet links.
+ One who has used those programs knows that the results are more often than
+ not of very low quality, when not ilegit or honeypots.
+ But yet, people use those programs because of censorships and copyright
+ issues in their countries, so they accept the junk in favor to obtain some
+ valuable content.
+\end_layout
+
+\begin_layout Standard
+That drives us to a problem: because no moderation is taken place, both
+ the quality and legality of the content is disminished, and most people
+ don't use them because of that.
+\end_layout
+
+\begin_layout Standard
+So, what to do? We dont want to be illegal, and at the same time we want
+ full access to quality content which is censored in central mainstream
+ medias.
+ We also want privacy, one thing wich we don't have today unless we use
+ very complicated technology.
+\end_layout
+
+\begin_layout Standard
+The point here is: you can't have legallity and good quality content in
+ an unmoderated system.
+ After a while, the system will be full of junk and legally dungerous staff.
+\end_layout
+
+\begin_layout Standard
+So we introduce moderators.
+ But let the thing be WELL done.
+ We choose to be OUR OWN moderators.
+ Certainly not a good thing for opressive business and goverments, who want
+ to be the only one moderators (we should call them opressive censorers,
+ or just fascists), but still a good thing for goverments and enterpreneus
+ who embrace freedom and really take care of their citicens/clients.
+\end_layout
+
+\begin_layout Standard
+When a user enters in the WeTube network, s/he is ussually attached to a
+ moderator which only censors things which are not relevant to the theme
+ he is attached to.
+ For example, one moderator can specialice only on providing news, throwing
+ out the rest.
+ Another moderator could provide a good collection of music of a specific
+ style.
+ There could be also more general moderators which only accepts everything
+ which is legal in his/her country.
+ And there could be another interesting type of moderator which accept content
+ which is censored in his/her country, but that content is globally considered
+ good in the rest of the world, making him/herself an activist pro human
+ rights against dictatorships.
+\end_layout
+
+\begin_layout Standard
+A user of WeTube allways can choose whose moderators s/he wants.
+ He is presented with a default, which is usually a group of moderators
+ which keeps things legal.
+ But s/he can allways choose to exist that moderator, or combine with others.
+ Yes, multiple moderators are allowed, but interesting enough, the system
+ allows also to be attached only to 
+\begin_inset Quotes eld
+\end_inset
+
+unmoderated
+\begin_inset Quotes erd
+\end_inset
+
+ (moderators themselves enter in this mode to pick good staff througout
+ filtering).
+\end_layout
+
+\begin_layout Standard
+Now it is time to introduce the concept of WeTube entry points:
+\end_layout
+
+\begin_layout Subsection*
+The entrance to the world of WeTube
+\end_layout
+
+\begin_layout Standard
+The p2p programs are a problem in themselves.
+ They require the user to install an application in their computers and
+ configure things.
+ The learning curve is also ussually high, and passing links to another
+ person is complicate because requires both sides to have the program installed
+ and configured.
+ Another important problem is that those programs are not really real-time,
+ so the user must wait for the entire media to download in order to start
+ watching it, which is extremely slow and inconvenient.
+\end_layout
+
+\begin_layout Standard
+So we propose a very nice solution: WeTube can run in your browser and in
+ your mobile device, so you can pass links around, use a nice interface,
+ embed videos in your blogs, send by email, and do with the content all
+ the things you can actually do with with any page.
+\end_layout
+
+\begin_layout Standard
+But, because WeTube is in fact a p2p protocol, with thousands of servers
+ and users connected to it and making it run, the web is only one of the
+ possible interfaces.
+ As a protocol, it can be run on webpages, but also in the form of applications
+ which uses the WeTube libraries to present themselves in other convinient
+ forms.
+ Desktop applications and mobile applications are perfectly posible.
+\end_layout
+
+\begin_layout Standard
+The average user will use a simple web interface as his/her entry point.
+ Many WeTube servers will also provide an entry point that will download
+ the JavaScript program that runs in the browser, which is in fact the interface
+ for WeTube.
+ Optionaly, every entry point to WeTube can choose their default moderators,
+ and even disallow the users to select moderators which provide illegal
+ material, just to avoid legal issues.
+ Of course, in this case, the user can change the entry point for another
+ less restricted that allows more moderators, or simply download a full-featured
+ browser extension with unlimited access.
+\end_layout
+
+\begin_layout Standard
+The matter of allowing entry points to be fully moderated has many advantages:
+\end_layout
+
+\begin_layout Itemize
+The site itself can avoid legal issues.
+\end_layout
+
+\begin_layout Itemize
+A site that is meant to provide content for just one specific area, for
+ example, news or scientifics, can filter the rest out.
+\end_layout
+
+\begin_layout Itemize
+A site with content only allowed for childs, could be considered safe and
+ can provide only useful and educative content for them, filtering out violence
+ or sex, and also boring things.
+\end_layout
+
+\begin_layout Itemize
+Those sites are also a way to promote WeTube itself.
 \end_layout
 
 \end_body
