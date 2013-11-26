@@ -287,8 +287,8 @@ So we introduce moderators.
 \begin_layout Standard
 When a user enters in the WeTube network, s/he is ussually attached to a
  moderator which only censors things which are not relevant to the theme
- he is attached to.
- For example, one moderator can specialice only on providing news, throwing
+ s/he is attached to.
+ For example, one moderator can specialize only on providing news, throwing
  out the rest.
  Another moderator could provide a good collection of music of a specific
  style.
@@ -304,7 +304,7 @@ When a user enters in the WeTube network, s/he is ussually attached to a
 A user of WeTube allways can choose whose moderators s/he wants.
  He is presented with a default, which is usually a group of moderators
  which keeps things legal.
- But s/he can allways choose to exist that moderator, or combine with others.
+ But s/he can allways choose to exit that moderation, or combine with others.
  Yes, multiple moderators are allowed, but interesting enough, the system
  allows also to be attached only to 
 \begin_inset Quotes eld
@@ -316,6 +316,11 @@ unmoderated
 
  (moderators themselves enter in this mode to pick good staff througout
  filtering).
+\end_layout
+
+\begin_layout Standard
+Anyone can be a moderator and no personal information is required.
+ Just register a nick and go to the moderation area, and there you got it.
 \end_layout
 
 \begin_layout Standard
@@ -349,7 +354,7 @@ So we propose a very nice solution: WeTube can run in your browser and in
 But, because WeTube is in fact a p2p protocol, with thousands of servers
  and users connected to it and making it run, the web is only one of the
  possible interfaces.
- As a protocol, it can be run on webpages, but also in the form of applications
+ As a protocol, it can run on webpages, but also in the form of applications
  which uses the WeTube libraries to present themselves in other convinient
  forms.
  Desktop applications and mobile applications are perfectly posible.
@@ -389,6 +394,26 @@ A site with content only allowed for childs, could be considered safe and
 
 \begin_layout Itemize
 Those sites are also a way to promote WeTube itself.
+\end_layout
+
+\begin_layout Section*
+The rise of privacy
+\end_layout
+
+\begin_layout Section*
+Economic incentives
+\end_layout
+
+\begin_layout Section*
+A demo of the suggested interface
+\end_layout
+
+\begin_layout Section*
+The protocol
+\end_layout
+
+\begin_layout Section*
+We need your help
 \end_layout
 
 \end_body
