@@ -1,0 +1,213 @@
+#LyX 2.0 created this file. For more info see http://www.lyx.org/
+\lyxformat 413
+\begin_document
+\begin_header
+\textclass article
+\use_default_options true
+\maintain_unincluded_children false
+\language english
+\language_package default
+\inputencoding auto
+\fontencoding global
+\font_roman default
+\font_sans default
+\font_typewriter default
+\font_default_family default
+\use_non_tex_fonts false
+\font_sc false
+\font_osf false
+\font_sf_scale 100
+\font_tt_scale 100
+
+\graphics default
+\default_output_format default
+\output_sync 0
+\bibtex_command default
+\index_command default
+\paperfontsize default
+\use_hyperref false
+\papersize default
+\use_geometry false
+\use_amsmath 1
+\use_esint 1
+\use_mhchem 1
+\use_mathdots 1
+\cite_engine basic
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date false
+\use_refstyle 1
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\secnumdepth 3
+\tocdepth 3
+\paragraph_separation indent
+\paragraph_indentation default
+\quotes_language english
+\papercolumns 1
+\papersides 1
+\paperpagestyle default
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Title
+WeTube
+\end_layout
+
+\begin_layout Title
+the new revolutionary p2p media provider
+\end_layout
+
+\begin_layout Abstract
+WeTube comes in a time in which we are seing enourmus efforts from the people
+ to overcome the problems of censorship and central information control
+ over all Internet.
+ Notorius are the examples of YouTube, Vimeo, and other regulated places.
+ YouTube itself, for example, is directly censored in many countries (
+\begin_inset Flex URL
+status collapsed
+
+\begin_layout Plain Layout
+
+https://en.wikipedia.org/wiki/YouTube_Censorship
+\end_layout
+
+\end_inset
+
+), impiding people to access to the biggest media database avaiable today
+ for humans, and therefore making a precius source of information not avaiable
+ for human evolution and free interchange of information.
+\end_layout
+
+\begin_layout Abstract
+But not only censorships ocur to websites, but also the websites themselves
+ are obliged to censor many of the contents that the users upload, many
+ times to adjust to arbitrarian regulations that are imposed by a few, only
+ serve a few, and restrict the majority.
+\end_layout
+
+\begin_layout Abstract
+We belive this is a serius problem, and we should overcome it by the means
+ we can for the moment: technology.
+\end_layout
+
+\begin_layout Abstract
+We are happy to present here a good solution, and we expect that the technology
+ expressed in this document can make you excited enough to understand the
+ big implications that this is going to achieve very soon.
+\end_layout
+
+\begin_layout Abstract
+We exorte you to join us.
+ We truly need you, as this is a movement from humans to humans.
+ Please read on.
+\end_layout
+
+\begin_layout Section*
+The three pillars of WeTube: freedom, privacy, voluntary moderation
+\end_layout
+
+\begin_layout Standard
+Imagine a web page where you can upload any video, music, image or document,
+ and it will be inmediatly avaiable to everybody without restrictions, without
+ anybody knowing who you are (if you want), without anybody censoring you.
+\end_layout
+
+\begin_layout Standard
+Imagine a web page where you can access any media you want without anybody
+ having to know what are you doing, not being imposed to authenticate with
+ your real ID, IP, or associated credit card number, not being observed
+ by the big brother, and at the same time the content you access is of high
+ quality and helpful for your evolution and relationships.
+\end_layout
+
+\begin_layout Standard
+Imagine you are a publisher, a periodist or an editor, and there is a place
+ where you can safetly publish your discoverings, but without any censorship
+ at all, while at the same time you are able to get rid of the junk and
+ noise around you, providing only good quality researches and associations
+ with you audence.
+\end_layout
+
+\begin_layout Standard
+Imagine you are an artist that lives for and from your art, and you have
+ a free place where you can express your ideas and concepts, participate
+ in comunity with your followers and other artists, and even earn the money
+ you deserve for your hard work, without imposing others and not having
+ to pay big comissions to any private editor or distributor, nor having
+ to support their greed and censorships.
+\end_layout
+
+\begin_layout Standard
+Imagine a media where you can get rid of the junk so easy as doing a click.
+ Imagine being your own moderator, where you can select what is good and
+ bad for yourself and your family, without having to surrender yourself
+ to what other has decided, specially when that other is trying to impose
+ you a vision you don't agree with.
+\end_layout
+
+\begin_layout Standard
+Imagine a place where you can choose multiple moderators, including yourself
+ or no moderators at all, being them people and organizations you really
+ trust, and the posibility to add or remove them without restriction.
+ Imagine how good a free moderator could be if their motivation is to serve
+ only what people want while removing what they don't, not what a big guy
+ on top of him/her decides.
+ Moderators with big impositions and bad appliance of filters would be rapidly
+ abandoned by the comunity, and their reputation disminished.
+\end_layout
+
+\begin_layout Standard
+Imagine that the media you see is temporaly stored on your computer so you
+ can see it multiple times without having to reload it.
+ Imagine that the content you like most is permanently stored on your computer
+ so if you lost your internet connection you can still access it.
+ Imagine a safeguard of all the important media you have in case of media
+ server shutdowns, human crisis, war, or goverment censorship.
+ You don't have that in today's standard media providers, as they prohibit
+ you to store the content.
+ Even companies like Google prohibits the publishing of browsers add-ons
+ that use a trick to record the media, making YouTube videos very difficult
+ to get stored locally with the Chrome browser.
+\end_layout
+
+\begin_layout Standard
+Imagine that you are a legit enterpreneur and have a useful and good business
+ that you need to promote.
+ The audence of this new media provider will be large and a real oportunity
+ for you to come in.
+ Every single area of business you can think of is covered, and you'll be
+ able to perfectly select the categories you want to be in.
+ Even better is the fact that advertisers can select to what moderation
+ they want to be attached, so you can perfectly choose moderators who provide
+ legal only content in your country.
+\end_layout
+
+\begin_layout Standard
+Imagine that you are a programmer and/or a system administrator and you
+ want your deserved reward for your hard work while being useful to humanity.
+ You can host a server and earn bitcoins proportional to the amount of bandwith,
+ space and maintence you serve.
+ At the same time, the protocol is specially designed to protect you against
+ the arbitrarian laws, as you can select which moderators you're going to
+ serve, and therefore, the content your server helps the user to download.
+ But not even that, most of the contents are actually not stored in your
+ servers, but interchanged between users alone, making this protocol a really
+ distributed anonymous one.
+ We even optionally protect your IP with a technology similar to hidden
+ Tor services if you want to serve delicate searches, at only the cost of
+ some added latency.
+ You are a crucial part of this revolution.
+\end_layout
+
+\end_body
+\end_document
