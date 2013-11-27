@@ -400,12 +400,162 @@ Those sites are also a way to promote WeTube itself.
 The rise of privacy
 \end_layout
 
+\begin_layout Standard
+Privacy is a big problem today.
+ Corporations and goverments keep track of everything yo do, and use the
+ information they collect from you to make a profile of your personality
+ that they then use to impose certain things and make decisions.
+\end_layout
+
+\begin_layout Standard
+People tend to think that the information they collect from them is just
+ for advertising purposes, but that is only a tiny part.
+ And I will put some examples:
+\end_layout
+
+\begin_layout Standard
+The main target are libertarians, anarcho-socialist, anti-capitalists, anarcho-c
+aptitalists, comunists, people aware of their rights as citicens, artists,
+ media distributors (incorrectly named 
+\begin_inset Quotes eld
+\end_inset
+
+hackers
+\begin_inset Quotes erd
+\end_inset
+
+), protestors, open source activicts, many minorities, people protesting
+ against goverments regulations, people protesting against monopolies, scientifi
+cs out of the status-quo, and more.
+ In a sense: people who embrace freedom, wether they are from the left or
+ the right.
+\end_layout
+
+\begin_layout Standard
+Wars are used as an excuse to impose vigilance and coercion against the
+ people.
+ Actual corporations want to earn money, yes, but the point is that, meanwhile,
+ they are a tool to impose censorship and control.
+ Any good company who is worried about their clients privacy is ussually
+ forced to give all the information they gather to goverment agencies.
+ And this is happening in most countries, some more than others.
+\end_layout
+
+\begin_layout Standard
+But we belive in freedom and self-responsability.
+ And privacy is vital at this point, because we must protect ourselves against
+ censorship.
+ It doesn't matter what you have to say, what are your ideas, if you can't
+ spare them.
+\end_layout
+
+\begin_layout Standard
+Important is also your economic privacy.
+ Remember that most media providers requires you to give your credit card
+ number in order to start downloading media, even if it is free media.
+ iTunes and Google Play are examples.
+ When you give your credit card to them, not only are you de-facto telling
+ them who you are exactly, but you are telling banks and therefore goverment
+ agencies what are you doing with your money.
+ This is a very strong form of coercion to artits too, because that implies
+ that only artits aproved by them can reach a sufficent audence to make
+ a life.
+\end_layout
+
+\begin_layout Standard
+So we embrace Bitcoin and derivatives for the economic parts of WeTube,
+ because it allows anonymous and non-coercible transactions.
+\end_layout
+
+\begin_layout Standard
+More importantly, we base our identity parts in Keyhotee, that has an impresive
+ list of privacy and security features, including the posibility to register
+ any nick in a completely distributed network, not owned by anybody, and
+ therefore out of the information collectors.
+ This is the only way today to obtain real private anonymous IDs.
+\end_layout
+
+\begin_layout Standard
+Of course, we also protect your IP.
+ Even if you need an internet connection to connect to WeTube, in the very
+ moment you enter into it, your privacy is guarantied because all data travels
+ encripted and completely distributed.
+ So the only thing that a man in the middle can see is that you are connected
+ to WeTube, but cannot know what are you truly doing.
+\end_layout
+
+\begin_layout Subsection*
+But what about criminals? Couldn't they have inpunity in this system?
+\end_layout
+
+\begin_layout Standard
+They can't have inpunity because this is a moderated system.
+ Criminal activites sould be inmediatly rejected by most moderators.
+ Illegalities could also be cut-off.
+\end_layout
+
+\begin_layout Standard
+Yes, they could still broadcast media to the unmoderated area, but that
+ area will be mostly ignored by normal people.
+\end_layout
+
+\begin_layout Standard
+We believe that if you try to censor terrorists or psicopaths, the only
+ thing you will obtain is a stronger response from those groups, and motivate
+ them to use actual physical forces.
+ Most moderators and users do understand that the best they can do is ignore
+ criminals, or even better: create content that severely expose their badness
+ and identities by investigations.
+\end_layout
+
+\begin_layout Standard
+Also, we should consider that most people are actually good people and don't
+ like violence.
+ Most of the biggest threads to humanity did precisally came from wars and
+ false-flag actions, of course motivated by the dark sides of goverments
+ and bankers.
+\end_layout
+
 \begin_layout Section*
 Economic incentives
 \end_layout
 
 \begin_layout Section*
-A demo of the suggested interface
+Interface
+\end_layout
+
+\begin_layout Subsection*
+Videos
+\end_layout
+
+\begin_layout Standard
+Ogg, Webm, H.264
+\end_layout
+
+\begin_layout Subsection*
+Music
+\end_layout
+
+\begin_layout Standard
+Ogg and MP3.
+ Correct tagging is mandatory.
+\end_layout
+
+\begin_layout Subsection*
+Documents
+\end_layout
+
+\begin_layout Standard
+Documents are either PDF, ebooks, CHM or simple static HTML pages.
+\end_layout
+
+\begin_layout Subsection*
+Apps
+\end_layout
+
+\begin_layout Standard
+Categorized by architecture.
+ We need some sort of signatures to avoid viruses and trojans.
 \end_layout
 
 \begin_layout Section*
