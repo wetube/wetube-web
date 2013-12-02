@@ -263,6 +263,50 @@ And what part of the stock do we reserve for programmers and miners? I propose 1
 
 <div class="standard"><a id='magicparlabel-94' />
 So please consider yourself all this matter. This is a serious business we have here, and a real opportunity.</div>
+<h4 class="subsubsection_"><a id='magicparlabel-95855' />
+Managers / marketers / modelers</h4>
+<div class="standard"><a id='magicparlabel-95874' />
+A project of this size/repercussion, cannot go far without thinkers. Every single area of this DAC needs delicate analysis and modeling.</div>
+
+<div class="standard"><a id='magicparlabel-97370' />
+In the traditional structure of a company, you normally have departments and directors. Directors mandate a way of working and ensure that everybody is working in the correct direction. This imposes a hierarchy. And we don't want that. We want freedom, voluntarism, and a way to compensate everybody only in function of their work. We would like this DAC to be flat and auto managed.</div>
+
+<div class="standard"><a id='magicparlabel-97529' />
+But, let me be very clear on this: while we want full freedom, we also need proper analysis and direction. So, how to achieve both?</div>
+
+<div class="standard"><a id='magicparlabel-97711' />
+I have this idea, that I hope everybody can agree with. I call it distributed management, where everybody can become a manager, and where real experts can obtain their proper retribution with their thinking, while respecting programmers freedom and work. They will not receive more or less money than programmers, instead they will working together with them to model the necessary details. Many times, but not all the times, one will be both a manager and a programmer, which is fantastic!</div>
+
+<div class="standard"><a id='magicparlabel-98064' />
+Every manager has the important task to model the details of the protocols and characteristics of the system. Some examples of different areas that requires management:</div>
+
+<ul class="itemize"><li class="itemize_item"><a id='magicparlabel-98109' />
+p2p protocol modelers, to ensure privacy and performance. This is the core of WeTube, and the most important task.</li>
+<li class="itemize_item"><a id='magicparlabel-98263' />
+Marketing, or how to encourage adoption of the system, while maintaining the delicate balance between profit and user enthusiasm. This department is mainly about the business model.</li>
+<li class="itemize_item"><a id='magicparlabel-98618' />
+Economists and currency experts in charge of MediaCoin, working together with marketing guys.</li>
+<li class="itemize_item"><a id='magicparlabel-98629' />
+Legal advisers. Their analysis are vital to avoid legal issues.</li>
+<li class="itemize_item"><a id='magicparlabel-98599' />
+Social thinkers, whose tasks is to think about the interface behavior and net-inter-relations between users and/or moderators.</li>
+<li class="itemize_item"><a id='magicparlabel-98814' />
+Programmer's coordinators. Very important to ensure communication and the application of ideas.</li>
+<li class="itemize_item"><a id='magicparlabel-99181' />
+Spokesmen, doing conferences/videos to promote the system.</li>
+<li class="itemize_item"><a id='magicparlabel-99578' />
+Moderators, to avoid abuses (for example, someone tries to write very redundantly or write code in an unnatural way to augment the number of lines).</li>
+<li class="itemize_item"><a id='magicparlabel-99977' />
+And general coordination, in charge of the original idea, trying to put everything together. I will assume this task and I will obtain the shares in the same proportion and conditions as the rest.</li>
+</ul>
+<div class="standard"><a id='magicparlabel-98839' />
+Every area may require several managers/thinkers.</div>
+
+<div class="standard"><a id='magicparlabel-99018' />
+So I propose that managers can get their shares in the system by writing papers, and their retribution will be in proportion on how much they need to write. Every manager should write one or more papers with a detailed analysis of the needs, and a suggested model to achieve the objectives. Then, this paper is passed to programmers and they implement the ideas. At the same time, a programmer can work with the manager to propose changes, or the programmer him/herself can become a manager if that area is empty or the actual manager is not competent/open minded enough. In case of severe conflict, a meeting will take place with the rest of the team, and we'll decide together by consensus.</div>
+
+<div class="standard"><a id='magicparlabel-99218' />
+Shares will be paid in the moment of the launch, so rejected writings of previous modifications will not count. I suggest that everybody will obtain their shares in proportion to the number of lines s/he wrote, the same that happens with programmers. In case of graphics/drawings, we could agree that they cost something like 20 lines each. More if they are logos.</div>
 <h4 class="subsubsection_"><a id='magicparlabel-356' />
 Moderators</h4>
 <h4 class="subsubsection_"><a id='magicparlabel-364' />
