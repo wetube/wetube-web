@@ -275,10 +275,10 @@ In the traditional structure of a company, you normally have departments and dir
 But, let me be very clear on this: while we want full freedom, we also need proper analysis and direction. So, how to achieve both?</div>
 
 <div class="standard"><a id='magicparlabel-97711' />
-I have this idea, that I hope everybody can agree with. I call it distributed management, where everybody can become a manager, and where real experts can obtain their proper retribution with their thinking, while respecting programmers freedom and work. They will not receive more or less money than programmers, instead they will working together with them to model the necessary details. Many times, but not all the times, one will be both a manager and a programmer, which is fantastic!</div>
+I have this idea, that I hope everybody can agree with. I call it distributed management, where everybody can become a manager, and where real experts can obtain their proper retribution with their thinking. They will not receive more or less money than programmers, instead they will work together to model the necessary political details. Many times, but not all the times, one will be both a manager and a programmer, which is fantastic!</div>
 
 <div class="standard"><a id='magicparlabel-98064' />
-Every manager has the important task to model the details of the protocols and characteristics of the system. Some examples of different areas that requires management:</div>
+Every manager has the important task to model the details of the protocols and characteristics of the system. Some examples of different areas that require management:</div>
 
 <ul class="itemize"><li class="itemize_item"><a id='magicparlabel-98109' />
 p2p protocol modelers, to ensure privacy and performance. This is the core of WeTube, and the most important task.</li>
@@ -289,7 +289,7 @@ Economists and currency experts in charge of MediaCoin, working together with ma
 <li class="itemize_item"><a id='magicparlabel-98629' />
 Legal advisers. Their analysis are vital to avoid legal issues.</li>
 <li class="itemize_item"><a id='magicparlabel-98599' />
-Social thinkers, whose tasks is to think about the interface behavior and net-inter-relations between users and/or moderators.</li>
+Social thinkers, whose task is to think about the interface behavior and net-inter-relations between users and/or moderators.</li>
 <li class="itemize_item"><a id='magicparlabel-98814' />
 Programmer's coordinators. Very important to ensure communication and the application of ideas.</li>
 <li class="itemize_item"><a id='magicparlabel-99181' />
@@ -297,7 +297,7 @@ Spokesmen, doing conferences/videos to promote the system.</li>
 <li class="itemize_item"><a id='magicparlabel-99578' />
 Moderators, to avoid abuses (for example, someone tries to write very redundantly or write code in an unnatural way to augment the number of lines).</li>
 <li class="itemize_item"><a id='magicparlabel-99977' />
-And general coordination, in charge of the original idea, trying to put everything together. I will assume this task and I will obtain the shares in the same proportion and conditions as the rest.</li>
+And general coordination, in charge of the original idea, trying to put everything together. I will assume this task, but will obtain the shares in the same proportion and conditions as the rest.</li>
 </ul>
 <div class="standard"><a id='magicparlabel-98839' />
 Every area may require several managers/thinkers.</div>
